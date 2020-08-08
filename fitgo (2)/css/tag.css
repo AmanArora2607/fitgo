@@ -1,0 +1,693 @@
+@media(max-width:768px){
+
+.p4{
+    padding:16px !important;
+}
+
+
+
+
+
+  #about .mt-5{
+    font-style: italic;
+font-weight: 800;
+font-size: 22.06px;
+line-height: 105%;
+/* or 49px */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+
+
+.mob-resp{
+
+text-align: center;
+}
+
+#infrared .mt-5{
+font-size: 26.06px;
+line-height: 35px;
+}
+
+
+#infrared .text-muted{
+font-style: normal;
+font-weight: normal;
+font-size: 16.06px;
+line-height: 28px;
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4;
+}
+
+.infra .text-muted{
+   font-style: normal;
+font-weight: normal;
+font-size: 16.06px;
+line-height: 28px;
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4; 
+}
+
+.oxi .text-muted{
+   font-style: normal;
+font-weight: normal;
+font-size: 16.06px;
+line-height: 28px;
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4; 
+}
+
+#infrared-thermometer .text1{
+font-style: normal;
+font-weight: 800;
+font-size: 18.06px;
+line-height: 5px;
+
+
+}
+
+
+
+#about-home-section .lead{
+
+  
+font-style: italic;
+font-weight: bold;
+font-size: 25.06px;
+line-height: 40px;
+letter-spacing: 0.02em;
+
+
+}
+
+
+
+#heading-section-aboutus .h1{
+font-style: normal;
+font-weight: 700;
+font-size: 30.37px;
+line-height: 50px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Gradient */
+color: #64C4CE ;
+}
+
+
+#aboutus-content .lead{
+
+  
+
+font-size: 15.06px;
+line-height: 25px;
+letter-spacing: 0.02em;
+
+
+}
+
+#aboutus-services .h1{
+  font-style: normal;
+font-weight: 800;
+font-size: 28.83px;
+line-height: 27px;
+}   
+
+
+.logo-img{
+  width: 55px;
+}
+
+}
+
+
+
+
+@media(max-width:755px){
+    .p4{
+    padding:16px !important;
+}
+    
+    
+    #about .mt-5{
+        font-style: italic;
+    font-weight: 800;
+    font-size: 22.06px;
+    line-height: 105%;
+    /* or 49px */
+    
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    }
+    
+    body{
+        overflow-x:hidden;
+    }
+
+    
+.mob-resp{
+    
+    text-align: center;
+  }
+
+ #infrared .mt-5{
+  font-size: 26.06px;
+  line-height: 35px;
+ }
+
+
+  #infrared .text-muted{
+    font-style: normal;
+  font-weight: normal;
+  font-size: 16.06px;
+  line-height: 28px;
+  
+  letter-spacing: 0.02em;
+  
+  color: #C4C4C4;
+  }
+
+.infra .text-muted{
+    font-style: normal;
+  font-weight: normal;
+  font-size: 16.06px;
+  line-height: 28px;
+  
+  letter-spacing: 0.02em;
+  
+  color: #C4C4C4;
+  }
+
+
+.oxi .text-muted{
+    font-style: normal;
+  font-weight: normal;
+  font-size: 16.06px;
+  line-height: 28px;
+  
+  letter-spacing: 0.02em;
+  
+  color: #C4C4C4;
+  }
+
+
+
+  #infrared-thermometer .text1{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18.06px;
+    line-height: 5px;
+    
+    
+}
+
+#about-home-section .lead{
+
+      
+  font-style: italic;
+  font-weight: bold;
+  font-size: 25.06px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+    
+
+#heading-section-aboutus .h1{
+  font-style: normal;
+font-weight: 700;
+font-size: 30.37px;
+line-height: 50px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Gradient */
+color: #64C4CE ;
+}
+
+
+#aboutus-content .lead{
+
+      
+
+  font-size: 15.06px;
+  line-height: 25px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+    #aboutus-services .h1{
+      font-style: normal;
+font-weight: 800;
+font-size: 28.83px;
+line-height: 27px;
+    }   
+
+
+    .logo-img{
+      width: 75px;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 976px) and (max-width:1139px) {
+    #home-section .h1{
+      font-style: normal;
+      font-weight: 800;
+      font-size: 55.37px;
+      line-height: 110px;
+      /* identical to box height */
+      
+      letter-spacing: 0.01em;
+    }
+    #home-section .lead{
+      font-style: normal;
+    font-weight: normal;
+    font-size: 18.25px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    letter-spacing: 0.1em;
+    
+    }
+    #home-section .row{
+      padding-left: 20px;
+    }
+    
+    #home-section .text{
+      font-style: italic;
+      font-weight: bold;
+    font-size: 15.25px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    }
+    
+    #home-section .text-warning{
+      font-style: normal;
+    font-weight: 800;
+    font-size: 19.06px;
+    line-height: 53px;
+    letter-spacing: 0.02em;
+    }
+    #about .mt-5{
+        font-style: italic;
+    font-weight: 800;
+    font-size: 25.06px;
+    line-height: 125%;
+    /* or 49px */
+    
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    }
+
+
+    #infrared-thermometer .text1{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 29.06px;
+        line-height: 53px;
+        letter-spacing: 0.02em;
+    }
+
+    #about .lead{
+      font-size: 14px;
+    }
+
+    #about-home-section .lead{
+
+      
+      font-style: italic;
+      font-weight: bold;
+      font-size: 22.06px;
+      line-height: 45px;
+      letter-spacing: 0.02em;
+    
+    
+        }
+
+
+
+        #aboutus-content .lead{
+
+      
+      
+          font-size: 22.06px;
+          line-height: 45px;
+          letter-spacing: 0.02em;
+        
+        
+            }
+    
+
+        
+
+#heading-section-aboutus .h1{
+  font-style: normal;
+font-weight: 700;
+font-size: 52.37px;
+line-height: 120px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Gradient */
+color: #64C4CE ;
+}
+
+
+#aboutus-services .h1{
+  font-style: normal;
+font-weight: 800;
+line-height: 27px;
+
+font-size: 22.06px;
+}  
+#product-offerings .text-2{
+  display: none;
+}
+
+    
+  }
+  
+  @media(min-width:1140px){
+    #home-section .h1{
+      font-style: normal;
+      font-weight: 800;
+      font-size: 65.37px;
+      line-height: 110px;
+      /* identical to box height */
+      
+      letter-spacing: 0.01em;
+    }
+    #home-section .lead{
+      font-style: normal;
+    font-weight: normal;
+    font-size: 23.25px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    letter-spacing: 0.1em;
+    
+    }
+    
+    
+    #home-section .text{
+      font-style: italic;
+      font-weight: bold;
+    font-size: 20.25px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    }
+    
+    #home-section .text-warning{
+      font-style: normal;
+    font-weight: 800;
+    font-size: 19.06px;
+    line-height: 53px;
+    letter-spacing: 0.02em;
+    }
+    
+#about .mt-5{
+    font-style: italic;
+font-weight: 800;
+font-size: 25.06px;
+line-height: 125%;
+/* or 49px */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+
+ .text1{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20.06px;
+    line-height: 13px;
+ 
+
+}
+
+#about-home-section .lead{
+
+      
+  font-style: italic;
+
+  font-size: 25.06px;
+  line-height: 53px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+
+
+
+    #heading-section-aboutus .h1{
+      font-style: normal;
+    font-weight: 700;
+    font-size: 55.37px;
+    line-height: 130px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.01em;
+    
+    /* Primary Gradient */
+    color: #64C4CE ;
+    }
+
+    #aboutus-content .lead{
+
+      
+ 
+      font-size: 22.06px;
+      line-height: 45px;
+      letter-spacing: 0.02em;
+    
+    
+        }
+
+        #aboutus-services .h1{
+          font-style: normal;
+        font-weight: 800;
+        line-height: 37px;
+        
+        font-size: 32.06px;
+        }   
+
+        
+        .logo-img{
+          width: 100px;
+        }
+    
+ 
+
+  }
+  @media only screen and (min-width: 755px) and (max-width: 955px) 
+  {
+    #home-section .h1{
+      font-style: normal;
+      font-weight: 800;
+      font-size: 35.37px;
+      line-height: 100px;
+      margin-left: 50px;
+      /* identical to box height */
+      
+      letter-spacing: 0.01em;
+    }
+    #home-section .lead{
+      font-style: normal;
+      margin-left: 50px;
+    font-weight: normal;
+    font-size: 13.25px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    letter-spacing: 0.1em;
+    
+    }
+    
+    
+    #home-section .text{
+      font-style: italic;
+      font-weight: bold;
+    font-size: 20.25px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    padding-left:50px;
+    }
+    
+    #home-section .text-warning{
+      font-style: normal;
+    font-weight: 800;
+    font-size: 19.06px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    margin-left: 50px;
+    }
+    
+    #about .mt-5{
+        font-style: italic;
+    font-weight: 800;
+    font-size: 22.06px;
+    line-height: 125%;
+    /* or 49px */
+    
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    }
+
+    #infrared-thermometer .text1{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15.06px;
+        line-height: 13px;
+      
+    }
+
+
+    #about .lead{
+      font-size: 14px;
+    }
+
+
+    
+
+#heading-section-aboutus .h1{
+  font-style: normal;
+font-weight: 700;
+font-size: 35.37px;
+line-height: 70px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Gradient */
+color: #64C4CE ;
+}
+    
+
+
+#aboutus-content .lead{
+
+      
+  
+  font-size: 18.06px;
+  line-height: 45px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+    #aboutus-services .h1{
+      font-style: normal;
+    font-weight: 800;
+    line-height: 27px;
+    
+    font-size: 25.06px;
+    }   
+ 
+    
+  }
+  
+
+  @media only screen and (min-width: 956px) and (max-width: 975px){
+
+
+    #infrared-thermometer .text1{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12.06px;
+        line-height: 10px;
+       
+    }
+
+    #about .lead{
+      font-size: 14px;
+    }
+   
+    #about-home-section .lead{
+
+      
+  font-style: italic;
+  font-weight: bold;
+  font-size: 39.06px;
+  line-height: 53px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+
+
+    
+
+#heading-section-aboutus .h1{
+  font-style: normal;
+font-weight: 700;
+font-size: 45.37px;
+line-height: 110px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Primary Gradient */
+color: #64C4CE ;
+}
+
+#aboutus-content .lead{
+
+      
+
+  font-size: 19.06px;
+  line-height: 45px;
+  letter-spacing: 0.02em;
+
+
+    }
+
+
+    
+    #aboutus-services .h1{
+      font-style: normal;
+    font-weight: 800;
+    line-height: 27px;
+    
+    font-size: 25.06px;
+    } 
+
+
+   
+    
+
+  } 
+
+
+

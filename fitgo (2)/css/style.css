@@ -1,0 +1,207 @@
+body {
+  color: #C4C4C4;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+#home-section {
+  background: linear-gradient(135deg, #64C4CE 28.12%, #18858F 100%);
+
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+#about{
+  background: #FDC766;
+}
+
+.infra .text-muted{
+  font-style: normal;
+font-weight: normal;
+font-size: 26.06px;
+
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4;
+}
+
+.oxi .text-muted{
+  font-style: normal;
+font-weight: normal;
+font-size: 26.06px;
+
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4;
+}
+
+.infra .h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 65.37px;
+line-height: 130px;
+  
+
+text-align: center;
+letter-spacing: 0.01em;
+
+
+color: #64C4CE ;
+}
+
+.oxi .h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 65.37px;
+line-height: 130px;
+  
+
+text-align: center;
+letter-spacing: 0.01em;
+
+
+color: #64C4CE ;
+}
+
+
+#infrared .text-muted {
+  font-style: normal;
+font-weight: normal;
+font-size: 26.06px;
+
+
+letter-spacing: 0.02em;
+
+color: #C4C4C4;
+}
+
+
+
+
+#infrared .h1{
+  font-style: normal;
+font-weight: 700;
+font-size: 65.37px;
+line-height: 130px;
+  
+
+text-align: center;
+letter-spacing: 0.01em;
+
+
+color: #64C4CE ;
+}
+
+
+#about-home-section {
+  background-image: url(../img/Vector.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: scroll;
+  min-height: 400px;
+}
+
+#about-home-section .lead{
+  margin-top: 100px;
+  
+}
+
+
+
+#heading-section-aboutus .hr{
+  border-top: 2px solid #64C4CE;
+  margin-top: 110px;
+}
+
+#aboutus-services .h1{
+  letter-spacing: 0.02em;
+
+/* Primary Gradient */
+color:#64C4CE;
+
+}
+
+#core-values .text-center{
+  letter-spacing: 0.02em;
+  color:#64C4CE;
+  font-weight: 700;
+}
+#product-offerings .text-center{
+  letter-spacing: 0.02em;
+  color:#64C4CE;
+  font-weight: 700;
+}
+
+
+#product-headings{
+
+  border-bottom: 3px solid #64C4CE;
+}
+
+#thought .border-bottom{
+  color: #64C4CE;
+  font-style: italic;
+font-weight: bolder;
+letter-spacing: 0.02em;
+}
+
+
+#product-offerings .text-center{
+  color: #64C4CE;
+}
+
+.text1{
+  color: #64C4CE;
+  font-weight: 800;
+line-height: 53px;
+letter-spacing: 0.02em;
+}
+
+
+@media (min-width: 976px){
+.text-2{
+  display: none;
+}
+}
+
+
+
+
+.bg-dark{
+  background-color: transparent !important;
+}
+
+
+.bg-dark.scrolled{
+  background-color: black;
+}
+
+.navbar-fixed-top.scrolled {
+    background: linear-gradient(135deg, #64C4CE 28.12%, #18858F 100%)!important; 
+  transition: background-color 200ms linear;
+}
+
+
+#after-footer .d-flex{
+  background: linear-gradient(135deg, #64C4CE 28.12%, #18858F 100%)!important;
+}
+
+
+
+@media(max-width:600px){
+  .colm{
+    display: none;
+  }
+}
+
+
+@media(min-width:601px){
+  .sm-colm{
+    display: none;
+  }
+}
